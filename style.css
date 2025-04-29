@@ -4,7 +4,10 @@ body {
 
 .profile {
     border-radius: 50%;
-    font-family: cursive;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
     padding: 50px;
     text-align: center;
 }
